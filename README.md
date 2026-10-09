@@ -1,2 +1,1 @@
-# Trial-lol
-Helllo world
+Linear regression model trained with car databade
